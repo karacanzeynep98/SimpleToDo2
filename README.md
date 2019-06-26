@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-*Understanding Android Studio and linking items (text boxes, buttons, listViews) was useful and should be used in further projects.
+Understanding Android Studio and linking items (text boxes, buttons, listViews) was useful and should be used in further projects.
 
 ## License
 
